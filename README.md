@@ -1,6 +1,6 @@
 
 # Desafio 01 - FEED - Curso FULLSTACK PRO do Sujeito Programador 
- Primeiro Desafio Proposto pelo professor Matheus Frago do Curso do Sujeito programador. O objetivo é desenvolver uma pagina de feed bem simples para praticar o uso do HTML e CSS.
+ Primeiro Desafio Proposto pelo professor Matheus Fraga do Curso do Sujeito programador. O objetivo é desenvolver uma pagina de feed bem simples para praticar o uso do HTML e CSS.
 
 
 ### 📦 Tecnologias usadas
